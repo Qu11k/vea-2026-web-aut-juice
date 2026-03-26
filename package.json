@@ -1,0 +1,25 @@
+{
+  "name": "vea-2026-web-aut-juice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdlOlivers/vea-2026-web-aut-juice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tdlOlivers/vea-2026-web-aut-juice/issues"
+  },
+  "homepage": "https://github.com/tdlOlivers/vea-2026-web-aut-juice#readme",
+  "dependencies": {
+    "cypress": "^15.13.0",
+    "prettier": "^3.8.1"
+  }
+}
